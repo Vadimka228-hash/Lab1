@@ -99,7 +99,7 @@ public class MainApplication
 					if(item.equals(Apple) || item.equals(Apple1) || item.equals(Apple2))
 						apple++;  }
 				}
-			System.out.println("����� �����������: " + apple + " �������.");
+			System.out.println("Яблоко размером : " + apple + " съедено.");
 			}
 		
 		if(flag4){
@@ -110,7 +110,7 @@ public class MainApplication
 					if(item.equals(Cheese))
 						cheese++;}
 				}
-			System.out.println("���� �����������: " + cheese + " �������.");
+			System.out.println("Сыр : " + cheese + " съеден.");
 			}
 		
 		if(flag5){
